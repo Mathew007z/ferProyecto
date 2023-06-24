@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.ul-link{
+    display: flex;
+
+}
+
+
+.navbar{
+    display: flex;
+    height: 70px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.box-producto{
+    padding: 200px 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #000;
+    width: 200px;
+}
+
+
+#container-peliculas{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
